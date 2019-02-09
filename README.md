@@ -2,7 +2,6 @@
 
 ### Discrete Probability Distributions
 
-
 - Bernoulli
 - Binomial
 - Uniform
@@ -16,11 +15,3 @@
 - P-values
 - Confidence intervals
 - Bootstrapping
-
-
-### Discrete Markov Chains
-
-- Markov property
-- Transition matrices
-- Stationarity
-- Reversibility
